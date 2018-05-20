@@ -1,5 +1,7 @@
 # BatteryLow
 
+[![API](https://img.shields.io/badge/API-27%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=27) ![pass](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg)
+
 ## An App which notifies the user via Email when the battery goes low.
 
 There is an option to notify the user when battery goes below a particular level by selecting the optional battery percentage provided. 
