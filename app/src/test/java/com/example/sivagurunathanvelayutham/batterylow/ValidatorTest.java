@@ -26,7 +26,7 @@ public class ValidatorTest {
         when(mTextView.getText()).thenReturn(email_id);
         assertTrue("Validate Correct Email ID",emailTextValidator.validateAfterEntered());
     }
-g
+
     @Test
     public void validateInvalidEmailWhichReturnsFalse(){
         String emailId = "ab.cd.e@gmail";
