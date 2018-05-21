@@ -10,14 +10,9 @@ User will be provided with an text box field to fill the email_id to which they 
 
 # Screenshot
 
-![Home_page1](https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526852091.png)
+<img src="https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526852091.png?raw=true" height="400" hspace="20" alt="WelcomePage1" />  <img src="https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526852120.png?raw=true" height="400" hspace="20" alt="WelcomePage2" /> <img src="https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526852096.png?raw=true" height="400" hspace="20" alt="WelcomePage3" />
 
-![HomePage_2](https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526852120.png)
+<img src="https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526851666.png?raw=true" height="400" hspace="20" alt="MainActivity" /> <img src="https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526851774.png?raw=true" height="400" hspace="20" alt="FormSubmission" />
 
-![HomePage_3](https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526852096.png)
 
-![WelcomePage](https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526851666.png)
-
-![Input_form](https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screenshot_1526851774.png)
-
-![output](https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screen%20Shot%202018-05-20%20at%204.30.01%20PM.png)
+<img src="https://github.com/SivagurunathanV/BatteryLow/blob/master/images/Screen%20Shot%202018-05-20%20at%204.30.01%20PM.png?raw=true" height="500" hspace="20" alt="notifyEmail" />
